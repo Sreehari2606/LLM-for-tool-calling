@@ -1,0 +1,63 @@
+{"query": "Who is Sree Hari?", "answer": "[TOOL_CALL] chat{\"query\": \"Who is Sree Hari?\", \"answer\": \"Sree Hari is a software developer and AI enthusiast, currently working on AI and machine learning projects including the CareerPro career guidance system.\"}"}
+{"query": "What projects has Sree Hari worked on?", "answer": "[TOOL_CALL] chat{\"query\": \"What projects has Sree Hari worked on?\", \"answer\": \"Sree Hari has worked on projects like CareerPro, MargDarshan, and hospital data engineering projects, implementing ML algorithms, ETL pipelines, and building web-based applications.\"}"}
+{"query": "What is Sree Hari's focus in AI?", "answer": "[TOOL_CALL] chat{\"query\": \"What is Sree Hari's focus in AI?\", \"answer\": \"Sree Hari focuses on machine learning engineering, career guidance AI systems, and fine-tuning language models for tool-calling applications.\"}"}
+{"query": "What skills does Sree Hari have?", "answer": "[TOOL_CALL] chat{\"query\": \"What skills does Sree Hari have?\", \"answer\": \"Sree Hari has skills in Python, PyTorch, Hugging Face Transformers, SQL, Power BI, React, and full-stack development with AI/ML integration.\"}"}
+{"query": "Where is Sree Hari located?", "answer": "[TOOL_CALL] chat{\"query\": \"Where is Sree Hari located?\", \"answer\": \"Sree Hari is based in India.\"}"}
+{"query": "What is Sree Hari's internship experience?", "answer": "[TOOL_CALL] chat{\"query\": \"What is Sree Hari's internship experience?\", \"answer\": \"Sree Hari has done internships in Android app development, data engineering, and machine learning, including projects for Genesis Company and the National Skill Development Corporation.\"}"}
+{"query": "Hello, how are you today?", "answer": "[TOOL_CALL] chat{\"query\": \"Hello, how are you today?\", \"answer\": \"I'm doing well, thank you! How can I assist you today?\"}"}
+{"query": "What is the capital of France?", "answer": "[TOOL_CALL] chat{\"query\": \"What is the capital of France?\", \"answer\": \"Paris.\"}"}
+{"query": "Can you tell me a joke?", "answer": "[TOOL_CALL] chat{\"query\": \"Can you tell me a joke?\", \"answer\": \"Why did the scarecrow win an award? Because he was outstanding in his field!\"}"}
+{"query": "Who is the CEO of Tesla?", "answer": "[TOOL_CALL] chat{\"query\": \"Who is the CEO of Tesla?\", \"answer\": \"Elon Musk.\"}"}
+{"query": "Convert 10 kilometers to miles.", "answer": "[TOOL_CALL] chat{\"query\": \"Convert 10 kilometers to miles.\", \"answer\": \"10 kilometers is approximately 6.2137 miles.\"}"}
+{"query": "What is the boiling point of water?", "answer": "[TOOL_CALL] chat{\"query\": \"What is the boiling point of water?\", \"answer\": \"The boiling point of water is 100°C or 212°F at sea level.\"}"}
+{"query": "List the primary colors.", "answer": "[TOOL_CALL] chat{\"query\": \"List the primary colors.\", \"answer\": \"The primary colors are red, blue, and yellow.\"}"}
+{"query": "What is 15 multiplied by 7?", "answer": "[TOOL_CALL] chat{\"query\": \"What is 15 multiplied by 7?\", \"answer\": \"15 multiplied by 7 is 105.\"}"}
+{"query": "Who wrote 'Pride and Prejudice'?", "answer": "[TOOL_CALL] chat{\"query\": \"Who wrote 'Pride and Prejudice'?\", \"answer\": \"Jane Austen.\"}"}
+{"query": "Translate 'Good morning' to Spanish.", "answer": "[TOOL_CALL] chat{\"query\": \"Translate 'Good morning' to Spanish.\", \"answer\": \"Buenos días.\"}"}
+{"query": "What is the largest planet in our solar system?", "answer": "[TOOL_CALL] chat{\"query\": \"What is the largest planet in our solar system?\", \"answer\": \"Jupiter.\"}"}
+{"query": "Who painted the Mona Lisa?", "answer": "[TOOL_CALL] chat{\"query\": \"Who painted the Mona Lisa?\", \"answer\": \"Leonardo da Vinci.\"}"}
+{"query": "Define photosynthesis.", "answer": "[TOOL_CALL] chat{\"query\": \"Define photosynthesis.\", \"answer\": \"Photosynthesis is the process by which green plants use sunlight to synthesize foods from carbon dioxide and water.\"}"}
+{"query": "What is the square root of 144?", "answer": "[TOOL_CALL] chat{\"query\": \"What is the square root of 144?\", \"answer\": \"The square root of 144 is 12.\"}"}
+{"query": "Who is known as the father of computers?", "answer": "[TOOL_CALL] chat{\"query\": \"Who is known as the father of computers?\", \"answer\": \"Charles Babbage.\"}"}
+{"query": "Convert 100 Fahrenheit to Celsius.", "answer": "[TOOL_CALL] chat{\"query\": \"Convert 100 Fahrenheit to Celsius.\", \"answer\": \"100°F is approximately 37.78°C.\"}"}
+{"query": "What is the speed of light?", "answer": "[TOOL_CALL] chat{\"query\": \"What is the speed of light?\", \"answer\": \"The speed of light is approximately 299,792 kilometers per second.\"}"}
+{"query": "Name the seven continents.", "answer": "[TOOL_CALL] chat{\"query\": \"Name the seven continents.\", \"answer\": \"The seven continents are Asia, Africa, North America, South America, Antarctica, Europe, and Australia.\"}"}
+{"query": "What is the chemical symbol for gold?", "answer": "[TOOL_CALL] chat{\"query\": \"What is the chemical symbol for gold?\", \"answer\": \"The chemical symbol for gold is Au.\"}"}
+{"query": "Who wrote 'Hamlet'?", "answer": "[TOOL_CALL] chat{\"query\": \"Who wrote 'Hamlet'?\", \"answer\": \"William Shakespeare.\"}"}
+{"query": "Convert 50 kilograms to pounds.", "answer": "[TOOL_CALL] chat{\"query\": \"Convert 50 kilograms to pounds.\", \"answer\": \"50 kilograms is approximately 110.23 pounds.\"}"}
+{"query": "What is the tallest mountain in the world?", "answer": "[TOOL_CALL] chat{\"query\": \"What is the tallest mountain in the world?\", \"answer\": \"Mount Everest.\"}"}
+{"query": "Define gravity.", "answer": "[TOOL_CALL] chat{\"query\": \"Define gravity.\", \"answer\": \"Gravity is the force that attracts two bodies toward each other.\"}"}
+{"query": "Who invented the telephone?", "answer": "[TOOL_CALL] chat{\"query\": \"Who invented the telephone?\", \"answer\": \"Alexander Graham Bell.\"}"}
+{"query": "Translate 'Thank you' to French.", "answer": "[TOOL_CALL] chat{\"query\": \"Translate 'Thank you' to French.\", \"answer\": \"Merci.\"}"}
+{"query": "What is the formula for water?", "answer": "[TOOL_CALL] chat{\"query\": \"What is the formula for water?\", \"answer\": \"H2O.\"}"}
+{"query": "How many planets are in our solar system?", "answer": "[TOOL_CALL] chat{\"query\": \"How many planets are in our solar system?\", \"answer\": \"There are 8 planets.\"}"}
+{"query": "Who discovered penicillin?", "answer": "[TOOL_CALL] chat{\"query\": \"Who discovered penicillin?\", \"answer\": \"Alexander Fleming.\"}"}
+{"query": "What is the largest ocean?", "answer": "[TOOL_CALL] chat{\"query\": \"What is the largest ocean?\", \"answer\": \"The Pacific Ocean.\"}"}
+{"query": "What is 9 factorial?", "answer": "[TOOL_CALL] chat{\"query\": \"What is 9 factorial?\", \"answer\": \"9 factorial (9!) is 362,880.\"}"}
+{"query": "Name the first president of the United States.", "answer": "[TOOL_CALL] chat{\"query\": \"Name the first president of the United States.\", \"answer\": \"George Washington.\"}"}
+{"query": "Translate 'Good night' to German.", "answer": "[TOOL_CALL] chat{\"query\": \"Translate 'Good night' to German.\", \"answer\": \"Gute Nacht.\"}"}
+{"query": "Who is the author of '1984'?", "answer": "[TOOL_CALL] chat{\"query\": \"Who is the author of '1984'?\", \"answer\": \"George Orwell.\"}"}
+{"query": "What is the freezing point of water?", "answer": "[TOOL_CALL] chat{\"query\": \"What is the freezing point of water?\", \"answer\": \"0°C or 32°F.\"}"}
+{"query": "Define ecosystem.", "answer": "[TOOL_CALL] chat{\"query\": \"Define ecosystem.\", \"answer\": \"An ecosystem is a community of living organisms interacting with their environment.\"}"}
+{"query": "Who painted 'Starry Night'?", "answer": "[TOOL_CALL] chat{\"query\": \"Who painted 'Starry Night'?\", \"answer\": \"Vincent van Gogh.\"}"}
+{"query": "What is the chemical symbol for oxygen?", "answer": "[TOOL_CALL] chat{\"query\": \"What is the chemical symbol for oxygen?\", \"answer\": \"O.\"}"}
+{"query": "Convert 200 meters to feet.", "answer": "[TOOL_CALL] chat{\"query\": \"Convert 200 meters to feet.\", \"answer\": \"200 meters is approximately 656.17 feet.\"}"}
+{"query": "What is the largest desert?", "answer": "[TOOL_CALL] chat{\"query\": \"What is the largest desert?\", \"answer\": \"The Sahara Desert.\"}"}
+{"query": "Who invented the light bulb?", "answer": "[TOOL_CALL] chat{\"query\": \"Who invented the light bulb?\", \"answer\": \"Thomas Edison.\"}"}
+{"query": "Translate 'I love you' to Italian.", "answer": "[TOOL_CALL] chat{\"query\": \"Translate 'I love you' to Italian.\", \"answer\": \"Ti amo.\"}"}
+{"query": "What is the currency of Japan?", "answer": "[TOOL_CALL] chat{\"query\": \"What is the currency of Japan?\", \"answer\": \"Japanese Yen (JPY).\"}"}
+{"query": "How many continents are there?", "answer": "[TOOL_CALL] chat{\"query\": \"How many continents are there?\", \"answer\": \"There are 7 continents.\"}"}
+{"query": "Who discovered electricity?", "answer": "[TOOL_CALL] chat{\"query\": \"Who discovered electricity?\", \"answer\": \"Benjamin Franklin (demonstrated it).\"}"}
+{"query": "What is the population of India?", "answer": "[TOOL_CALL] chat{\"query\": \"What is the population of India?\", \"answer\": \"As of 2025, approximately 1.43 billion.\"}"}
+{"query": "Define AI.", "answer": "[TOOL_CALL] chat{\"query\": \"Define AI.\", \"answer\": \"Artificial Intelligence (AI) is the simulation of human intelligence in machines.\"}"}
+{"query": "What is the smallest prime number?", "answer": "[TOOL_CALL] chat{\"query\": \"What is the smallest prime number?\", \"answer\": \"2.\"}"}
+{"query": "Translate 'Good afternoon' to Hindi.", "answer": "[TOOL_CALL] chat{\"query\": \"Translate 'Good afternoon' to Hindi.\", \"answer\": \"नमस्कार (Namaskar).\"}"}
+{"query": "What is 25 squared?", "answer": "[TOOL_CALL] chat{\"query\": \"What is 25 squared?\", \"answer\": \"25 squared is 625.\"}"}
+{"query": "Who invented the airplane?", "answer": "[TOOL_CALL] chat{\"query\": \"Who invented the airplane?\", \"answer\": \"The Wright brothers.\"}"}
+{"query": "Convert 5 liters to gallons.", "answer": "[TOOL_CALL] chat{\"query\": \"Convert 5 liters to gallons.\", \"answer\": \"5 liters is approximately 1.32086 gallons.\"}"}
+{"query": "What is the distance between Earth and the Moon?", "answer": "[TOOL_CALL] chat{\"query\": \"What is the distance between Earth and the Moon?\", \"answer\": \"Approximately 384,400 kilometers.\"}"}
+{"query": "Who wrote 'The Odyssey'?", "answer": "[TOOL_CALL] chat{\"query\": \"Who wrote 'The Odyssey'?\", \"answer\": \"Homer.\"}"}
+{"query": "Define renewable energy.", "answer": "[TOOL_CALL] chat{\"query\": \"Define renewable energy.\", \"answer\": \"Renewable energy comes from sources that are naturally replenished, like solar, wind, and water.\"}"}
+{"query": "What is the chemical formula for carbon dioxide?", "answer": "[TOOL_CALL] chat{\"query\": \"What is the chemical formula for carbon dioxide?\", \"answer\": \"CO2.\"}"}
+{"query": "Translate 'See you later' to Portuguese.", "answer": "[TOOL_CALL] chat{\"query\": \"Translate 'See you later' to Portuguese.\", \"answer\": \"Até mais.\"}"}
+{"query": "What is the largest mammal?", "answer": "[TOOL_CALL] chat{\"query\": \"What is the largest mammal?\", \"answer\": \"The blue whale.\"}"}
