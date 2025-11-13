@@ -2,8 +2,8 @@ Tool-Enhanced Language Model
 
 This project is a prototype AI assistant using a fine-tuned Gemini/Gemma model with a curated dataset (data.jsonl). It answers questions present in the dataset and can handle basic math operations.
 
-Developer: Sree Hari
-Email: sreehari123@example.com
+SreeHari
+sreeharism143@gmail.com
 
 Key Points
 
@@ -12,5 +12,6 @@ Responds accurately to predefined queries.
 Evaluates simple arithmetic expressions.
 
 Uses a small model due to limited GPU/CPU resources for faster experimentation and low-memory deployment.
+
 
 
